@@ -1,0 +1,11 @@
+
+*.iobj
+*.exp
+*.pdb
+*.ipdb
+*.log
+*.recipe
+*.tlog
+*.obj
+*.db
+*.ipch

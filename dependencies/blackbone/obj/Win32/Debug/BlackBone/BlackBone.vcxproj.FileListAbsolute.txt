@@ -1,0 +1,2 @@
+J:\Visual Studio\loader\dependencies\blackbone\build\Win32\Debug\BlackBone.pdb
+J:\Visual Studio\loader\dependencies\blackbone\obj\Win32\Debug\BlackBone\BlackBone.pdb
